@@ -2,7 +2,7 @@ adium-theme-ubuntu==0.3.4
 apt-xapian-index==0.46
 autopep8==1.2.1
 beautifulsoup4==4.3.2
-bleach==1.4.2
+bleach==3.3.0
 characteristic==0.1.0
 chardet==2.3.0
 colorama==0.3.2
