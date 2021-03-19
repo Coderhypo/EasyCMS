@@ -22,7 +22,7 @@ html5lib==0.9999999
 httplib2==0.9
 idna==0.9
 itsdangerous==0.24
-Jinja2==2.8
+Jinja2==2.11.3
 lockfile==0.8
 lxml==3.4.2
 Markdown==2.6.2
